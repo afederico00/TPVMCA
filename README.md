@@ -1,2 +1,8 @@
 # TPVMCA
-Trabajo practico para computación aplicada
+
+# Grupo 
+- Andres,Federico
+-
+-
+-
+-
